@@ -9,7 +9,7 @@ render(){
 
 	return(
 
-<Card> What is you name? </Card>
+<Card> What is you name, asshole? </Card>
 
 
 		);
